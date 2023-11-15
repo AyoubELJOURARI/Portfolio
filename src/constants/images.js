@@ -12,6 +12,10 @@ import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
+import reactLogo from '../assets/react-logo.png';
+import angularLogo from '../assets/angular-logo.png';
+import springLogo from '../assets/spring-boot.png';
+import vueLogo from '../assets/vue-logo.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
@@ -43,6 +47,10 @@ export default {
   node,
   python,
   react,
+  reactLogo,
+  angularLogo,
+  vueLogo,
+  springLogo,
   redux,
   sass,
   typescript,
